@@ -9,6 +9,10 @@ def hello
 end
 
 
+def hola
 
+	render html: "hola mundo"
 
 end
+
+
